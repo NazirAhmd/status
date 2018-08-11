@@ -3,7 +3,7 @@ $(document).ready(function () {
 		uptimerobot: {
 			api_keys: [
 				'm779584146-4caead53c892bdd1b2391f77',
-
+				'm779591669-68610368c964b2b387710019'
 			],
 			logs: 1,
 			response_times: 1,
