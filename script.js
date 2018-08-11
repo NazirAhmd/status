@@ -13,7 +13,7 @@ $(document).ready(function () {
 			response_times_warning: 1500,
 		},
 		github: {
-			org: '1activegeek',
+			org: 'mattgphoto',
 			repo: 'status'
 		},
 		theme: 'dark'
