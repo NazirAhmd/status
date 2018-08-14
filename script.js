@@ -310,7 +310,7 @@ $(document).ready(function () {
 		});
 
 		return y.replace(/(y+)/g, function (v) {
-			return x.getFullYear().toString().slice(-v.length)
+			return y;
 		});
 	};
 });
