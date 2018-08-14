@@ -309,8 +309,7 @@ $(document).ready(function () {
 			return t;
 		});
 
-		return y.replace(/(y+)/g, function (v) {
-			return y;
+		return y;
 		});
 	};
 });
